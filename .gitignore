@@ -1,0 +1,14 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Old copies left in the project root (organised versions are in data/ and sql/)
+/*.csv
+/*.csv.csv
+/queries.sql
+/*.twb
+
+# Never commit credentials
+*credentials*
+*accessKeys*
+*.pem
+.env
